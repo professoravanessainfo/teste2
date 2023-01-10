@@ -1,0 +1,11 @@
+1. Criar dois arquivos:
+	1. index.html
+	2. style.css
+2. Inserir código real dentro de cada arquivo.
+	1. index.html - Criar um layout básico com backgroud
+	2. style.css - código de estilização para a página index.html
+
+Observação: os arquivos devem ser salvos no repositório local
+
+3. Abrir o GitHUb.com e fazer alterações nos arquivos.
+4. Fazer com que os arquivos sejam vistos no repositório local
